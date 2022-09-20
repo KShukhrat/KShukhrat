@@ -12,10 +12,10 @@
 ![SQL](https://img.shields.io/badge/SQL-000001?style=for-the-badge&logo=mysql&logoColor=28A8E8)
 ![Selenium](https://img.shields.io/badge/parsing-000001?style=for-the-badge&logo=selenium&logoColor=28A8E8)
 
-Follow me
+## Follow me
 
 [![Telegram](https://img.shields.io/badge/telegram-000001?style=for-the-badge&logo=telegram&logoColor=28A8E8)](https://t.me/q5huhrat)
 [![Instagram](https://img.shields.io/badge/instagram-000001?style=for-the-badge&logo=instagram)](https://www.instagram.com/5huxrat/)
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-000001?style=for-the-badge&logo=LinkedIn&logoColor=28A8E8)](https://www.linkedin.com/in/shuhrat-qayumov-8aa503247/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshukhrat&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshukhrat&layout=compact)](https://github.com/kshukhrat/github-readme-stats)
