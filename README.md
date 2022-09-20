@@ -13,3 +13,7 @@
 ![Selenium](https://img.shields.io/badge/parsing-000001?style=for-the-badge&logo=selenium&logoColor=28A8E8)
 
 Follow me
+
+[![Telegram](https://img.shields.io/badge/telegram-000001?style=for-the-badge&logo=telegram&logoColor=28A8E8)](https://t.me/q5huhrat)
+[![Instagram](https://img.shields.io/badge/instagram-000001?style=for-the-badge&logo=instagram)](https://www.instagram.com/5huxrat/)
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-000001?style=for-the-badge&logo=LinkedIn&logoColor=28A8E8)](https://t.me/q5huhrat&logoColor=0077B5)
