@@ -23,6 +23,6 @@
     <a href="https://www.instagram.com/5huxrat/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="Instagram" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/shuhrat-qayumov-8aa503247/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="LinkedIn" height="40" width="40" /></a>
     <a href="https://www.facebook.com/5huhrat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" height="40" width="40" /></a>
-    <a href="https://www.facebook.com/5huhrat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Facebook" height="30" width="30" /></a>
+    <a href="https://www.facebook.com/5huhrat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Facebook" height="35" width="35" /></a>
 </p>
 
