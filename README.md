@@ -14,8 +14,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshukhrat&layout=compact)](https://github.com/kshukhrat/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshukhrat&layout=compact)](https://github.com/kshukhrat/github-readme-stats) -->
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshukhrat&theme=default">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshukhrat&layout=compact">
 
 ## Connect with me:
 <p align="center">
@@ -25,4 +26,7 @@
     <a href="https://www.facebook.com/5huhrat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" height="40" width="40" /></a>
     <a href="https://www.facebook.com/5huhrat" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" alt="Gmail" height="40" width="40" /></a>
 </p>
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshukhrat&theme=default">
 
