@@ -1,7 +1,7 @@
 ![Header](https://github.com/QShuhrat/QShuhrat/blob/main/assets/SHUHRAT.jpg?raw=true)
 
 
-## I'm a Python Developer
+## I'm a Web-Developer
 
 ## Languages and Tools:
 ![Django](https://img.shields.io/badge/Django-000001?style=for-the-badge&logo=django)
@@ -14,9 +14,11 @@
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshukhrat&layout=compact)](https://github.com/kshukhrat/github-readme-stats) -->
+<div style="display: flex; justify-content: center;">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshukhrat&theme=default">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshukhrat&layout=compact">
+</div>
+
 
 ## Connect with me:
 <p align="center">
