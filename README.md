@@ -18,8 +18,8 @@
 ![Ubuntu](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <div style="display: flex; justify-content: center;">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshukhrat&theme=default">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshukhrat&layout=compact">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshukhrat&theme=default" style=" height:165;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshukhrat&layout=compact" style="height: 100%;">
 </div>
 
 
