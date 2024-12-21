@@ -23,7 +23,7 @@
 </div>
 
 ## Connect with me:
-<p align="center " style="display: flex; justify-content: center; gap: 45px;">
+<p align="center" style="display: flex; justify-content: center; gap: 45px;">
     <a href="https://t.me/q5huhrat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="40" width="40" /></a>
     <a href="https://www.instagram.com/5huxrat/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="Instagram" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/shuhrat-qayumov-8aa503247/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="LinkedIn" height="40" width="40" /></a>
