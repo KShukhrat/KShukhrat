@@ -28,28 +28,28 @@
 
 
 ## Connect with me:
-## Connect with me:
 <p align="center">
-    <a href="https://t.me/q5huhrat" target="blank">
+    <a href="https://t.me/q5huhrat" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="40" width="40" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/5huxrat/" target="blank">
+    <a href="https://www.instagram.com/5huxrat/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="Instagram" height="40" width="40" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/shuhrat-qayumov-8aa503247/" target="blank">
+    <a href="https://www.linkedin.com/in/shuhrat-qayumov-8aa503247/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="LinkedIn" height="40" width="40" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.facebook.com/5huhrat" target="blank">
+    <a href="https://www.facebook.com/5huhrat" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" height="40" width="40" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:5huhrat@gmail.com" target="blank">
+    <a href="mailto:5huhrat@gmail.com" target="_blank">
         <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" alt="Gmail" height="40" width="40" />
     </a>
 </p>
+
 
 
 
