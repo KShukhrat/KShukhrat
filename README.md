@@ -21,10 +21,11 @@
 
 
 
-<div style="display: flex; justify-content: center;">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshukhrat&theme=default" style=" height:165;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshukhrat&layout=compact" style="height: 100%;">
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshukhrat&theme=default" alt="Productive Time" style="height: 165px; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshukhrat&layout=compact" alt="Top Languages" style="height: 165px; margin: 10px;">
+</p>
+
 
 ## Connect with me:
 <p align="center" style="display: flex; justify-content: center; gap: 45px;">
