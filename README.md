@@ -37,12 +37,8 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/shuhrat-qayumov-8aa503247/" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/5huhrat" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://www.facebook.com/5huhrat" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
     &nbsp;
     <a href="mailto:5huhrat@gmail.com" style="text-decoration: none;">
