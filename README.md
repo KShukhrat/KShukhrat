@@ -1,4 +1,4 @@
-cla![Header](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
+![Header](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
 
 ## I'm a Web-Developer
 
@@ -29,23 +29,23 @@ cla![Header](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/h
 
 ## Connect with me:
 <p align="center">
-    <a href="https://t.me/q5huhrat">
+    <a href="https://t.me/q5huhrat" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     &nbsp;
-    <a href="https://www.instagram.com/5huxrat/">
+    <a href="https://www.instagram.com/5huxrat/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/shuhrat-qayumov-8aa503247/">
+    <a href="https://www.linkedin.com/in/shuhrat-qayumov-8aa503247/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://www.facebook.com/5huhrat">
+    <a href="https://www.facebook.com/5huhrat" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
     &nbsp;
-    <a href="mailto:5huhrat@gmail.com">
+    <a href="mailto:5huhrat@gmail.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
 </p>
